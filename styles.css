@@ -1,0 +1,27 @@
+.round-border{
+    border:1px solid black;
+    /*border-collapse: collapse;*/
+    border-radius: 10px;
+}
+body {
+    background-color: #eef5f5;
+}
+hr {
+    border-style: none; 
+    border-color: grey;
+    border-top-style: dotted;
+    width:15%;
+    border-width: 6px;
+  
+}
+h3{
+    color:#66bfbf;
+    font-size: 25px;
+    
+}
+h1{
+    color:rgb(164, 19, 164);
+    font-family:'Brush Script MT', cursive;
+    font-size: 35px;
+    
+}
